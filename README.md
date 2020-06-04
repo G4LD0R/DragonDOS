@@ -1,8 +1,10 @@
 # DragonDOS & IP Spoof Tool
 
-#IP Spoofing :
+**Author** = ["Hasan Baskın"](https://www.hasanbaskin.com/)
 
-IP spoofing refers to the process of creating and sending an IP packet for a certain destination using a different src address, then the actual source IP address.
+# IP Spoofing 
+
+IP spoofing refers to the process of creating and sending an IP packet for a certain destination using a different source address, then the actual source IP address.
 Spoofing the source IP address can be possibly used for,
 1. the purpose of concealing the identity of the sender or
 2. impersonating another computing system (misleading the destination)
@@ -17,13 +19,8 @@ Implemented attacks(mostly on Internet Protocol):
    Consequence   : Makes the network resource unavailable to its intended users.
                    Forces the targeted computer(s) to reset, or consume its resources so that it can no longer provide its intended service 		 	                Obstructing the communication media between the intended users and the victim so that they can no longer communicate adequately
                    
-   - Implemented ICMP Flooding, 
-     Source code : dos_attack.py
-                 ICMP pacekts contained in IP packets are forwarded to the target, by using many different IP addresses along many threads           	              simultaneously, and each thread sends the IP packets indefinitely
-	 Test command : sudo python dos_attack.py "target_IP_address"
-	 Note : "impacket" module needed beforehand
 
-**Author** = ["Hasan Baskın"](https://www.hasanbaskin.com/)
+
 
 #### `Screenshots of Script`
 
