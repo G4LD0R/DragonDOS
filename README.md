@@ -11,8 +11,8 @@
 `$ sudo apt-get install git`<br />
 `$ git clone https://github.com/G4LD0R/DragonDOS.git`<br />
 `$ cd DragonDOS`<br />
-`$ sudo chmod +x DragonDOS.py <br />
-`$ sudo chmod +x ip_generators.py
-`$ sudo chmod +x networkScanner.py
+`$ sudo chmod +x DragonDOS.py` <br />
+`$ sudo chmod +x ip_generators.py`<br />
+`$ sudo chmod +x networkScanner.py`<br />
 
 
