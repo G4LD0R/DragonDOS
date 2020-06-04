@@ -44,24 +44,24 @@ https:www.youtube.com/
 
 ### Warning
 
-*This script only created to uses on penetration tests. <br />
-*Only the users be responsible when occurred an abuse.<br />
-*This script consist of volume-based dos attacks and protocol attacks.<br />
-*You can choose one of two options. Those are options 1 or option 2.<br />
-*This program performs IP Spoofing also. (You must use the second option for this)<br />
+*This script only created to uses on penetration tests. *<br />
+*Only the users be responsible when occurred an abuse.*<br />
+*This script consist of volume-based dos attacks and protocol attacks.*<br />
+*You can choose one of two options. Those are options 1 or option 2.*<br />
+*This program performs IP Spoofing also. (You must use the second option for this)*<br />
 
 [1] Basic Attack Type <br />
-*This Attack type performs with random IP addresses and TCP packets. <br />
-*it takes simply destination IP address and destination port number from the user. Then it start the attack.<br />
+*This Attack type performs with random IP addresses and TCP packets.* <br />
+*it takes simply destination IP address and destination port number from the user. Then it start the attack.*<br />
 
 [2] Specific Attack Type<br />
 
-*This attack-type contains different options. You can use wordlist files, random IP addresses, your own IP address for the<br /> *source IP address.<br /> 
-*Additionally, you can use real IP addresses toke from free proxy websites. This program can perform all of them for you.<br />
-*You can choose the protocol type according to how you want between TCP packets and UDP packets.<br />
+*This attack-type contains different options. You can use wordlist files, random IP addresses, your own IP address for the*<br /> *source IP address.*<br /> 
+*Additionally, you can use real IP addresses toke from free proxy websites. This program can perform all of them for you.*<br />
+*You can choose the protocol type according to how you want between TCP packets and UDP packets.*<br />
 
-*This version is only a start-up.<br />
-*I continue developing this script.<br />
-*I hope this usefully for you.<br />
+*This version is only a start-up.*<br />
+*I continue developing this script.*<br />
+*I hope this usefully for you.*<br />
 
-*If you want to contact me, you should send a mail : info@hasanbaskin.com <br />
+*If you want to contact me, you should send a mail : info@hasanbaskin.com *<br />
